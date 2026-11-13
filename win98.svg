@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="260" viewBox="0 0 640 260">
+  <!-- 窗口外框 -->
+  <rect x="0" y="0" width="640" height="260" fill="#c0c0c0"/>
+  <rect x="0" y="0" width="640" height="260" fill="none" stroke="#dfdfdf" stroke-width="3"/>
+  <rect x="3" y="3" width="634" height="254" fill="none" stroke="#808080" stroke-width="1"/>
+
+  <!-- 标题栏 -->
+  <rect x="6" y="6" width="628" height="26" fill="#000080"/>
+  <text x="14" y="24" font-family="Tahoma, 'MS Sans Serif', sans-serif" font-size="14" font-weight="bold" fill="#ffffff">💻 曾经的少年 - 个人主页</text>
+  <!-- 标题栏按钮 -->
+  <rect x="560" y="10" width="18" height="16" fill="#c0c0c0" stroke="#dfdfdf" stroke-width="1"/>
+  <text x="564" y="23" font-family="sans-serif" font-size="12" fill="#000000">▁</text>
+  <rect x="584" y="10" width="18" height="16" fill="#c0c0c0" stroke="#dfdfdf" stroke-width="1"/>
+  <text x="588" y="23" font-family="sans-serif" font-size="12" fill="#000000">□</text>
+  <rect x="608" y="10" width="18" height="16" fill="#c0c0c0" stroke="#dfdfdf" stroke-width="1"/>
+  <text x="612" y="23" font-family="sans-serif" font-size="12" fill="#000000">✕</text>
+
+  <!-- 内容区 -->
+  <text x="20" y="64" font-family="Tahoma, 'MS Sans Serif', sans-serif" font-size="16" font-weight="bold" fill="#000000">你好，我是曾经的少年 👋</text>
+  <text x="20" y="96" font-family="Tahoma, 'MS Sans Serif', sans-serif" font-size="14" fill="#000000">爱折腾 VPS 和 Oracle Cloud 的打工仔。</text>
+  <text x="20" y="124" font-family="Tahoma, 'MS Sans Serif', sans-serif" font-size="14" fill="#000000">📍 昆明</text>
+
+  <!-- 分隔线 -->
+  <line x1="20" y1="146" x2="620" y2="146" stroke="#808080" stroke-width="1"/>
+  <line x1="20" y1="147" x2="620" y2="147" stroke="#ffffff" stroke-width="1"/>
+
+  <text x="20" y="176" font-family="Tahoma, 'MS Sans Serif', sans-serif" font-size="14" fill="#000000">📂 我的电脑   |   🌐 浏览器   |   📧 邮件</text>
+
+  <!-- 任务栏 -->
+  <rect x="6" y="224" width="628" height="30" fill="#c0c0c0"/>
+  <line x1="6" y1="224" x2="634" y2="224" stroke="#ffffff" stroke-width="1"/>
+  <line x1="6" y1="225" x2="634" y2="225" stroke="#dfdfdf" stroke-width="1"/>
+  <!-- 开始按钮 -->
+  <rect x="12" y="230" width="70" height="20" fill="#c0c0c0" stroke="#dfdfdf" stroke-width="2"/>
+  <text x="20" y="245" font-family="Tahoma, 'MS Sans Serif', sans-serif" font-size="13" font-weight="bold" fill="#000000">🪟 开始</text>
+  <!-- 时钟 -->
+  <text x="580" y="245" font-family="Tahoma, 'MS Sans Serif', sans-serif" font-size="13" fill="#000000">🕐 23:18</text>
+</svg>
