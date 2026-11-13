@@ -1,5 +1,5 @@
 <div align="center">
 
-![Win98 桌面](win98-animated.svg)
+![WinXP 桌面](winxp-animated.svg)
 
 </div>
