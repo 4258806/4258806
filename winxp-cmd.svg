@@ -6,10 +6,10 @@
 <linearGradient id="startBtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#5cb85c"/><stop offset="50%" stop-color="#3d9c3d"/><stop offset="100%" stop-color="#2e7d2e"/></linearGradient>
 </defs>
 <rect x="0" y="0" width="880" height="520" fill="url(#sky)"/>
-<g opacity="0.95"><animateTransform attributeName="transform" type="translate" values="-200 0; 900 0" dur="80s" repeatCount="indefinite"/>
+<g opacity="0.95">
 <ellipse cx="150" cy="80" rx="70" ry="22" fill="#ffffff"/><ellipse cx="200" cy="70" rx="55" ry="20" fill="#ffffff"/><ellipse cx="110" cy="72" rx="45" ry="16" fill="#ffffff"/>
 <ellipse cx="600" cy="130" rx="80" ry="24" fill="#ffffff"/><ellipse cx="660" cy="118" rx="60" ry="20" fill="#ffffff"/></g>
-<g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="-300 0; 900 0" dur="120s" repeatCount="indefinite"/>
+<g opacity="0.85">
 <ellipse cx="350" cy="180" rx="60" ry="18" fill="#ffffff"/><ellipse cx="400" cy="170" rx="45" ry="16" fill="#ffffff"/><ellipse cx="750" cy="60" rx="55" ry="18" fill="#ffffff"/></g>
 <path d="M0,400 Q220,330 440,380 T880,360 L880,520 L0,520 Z" fill="#5a9e2f"/>
 <path d="M0,430 Q280,370 550,410 T880,400 L880,520 L0,520 Z" fill="#4a8a26"/>
@@ -28,15 +28,15 @@
 <rect x="664" y="30" width="22" height="20" rx="3" fill="#3a93ff" stroke="#ffffff" stroke-width="1"/><text x="669" y="45" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">_</text>
 <rect x="690" y="30" width="22" height="20" rx="3" fill="#3a93ff" stroke="#ffffff" stroke-width="1"/><text x="695" y="45" font-family="sans-serif" font-size="12" fill="#ffffff">▢</text>
 <rect x="716" y="30" width="22" height="20" rx="3" fill="#e81123" stroke="#ffffff" stroke-width="1"/><text x="721" y="45" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">×</text>
-<text x="150" y="130" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#ffffff" opacity="0">C:\Users\曾经的少年&gt; python oci-test.py --count 20<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0312;0.0437;0.8750;0.9375;1" dur="16.0s" repeatCount="indefinite"/></text>
-<text x="150" y="160" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#00ff00" opacity="0">正在测试 Oracle 46 个区域...<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0938;0.1062;0.8750;0.9375;1" dur="16.0s" repeatCount="indefinite"/></text>
-<text x="150" y="190" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#00ff00" opacity="0">[ 1/46] ap-tokyo-1 ....... 42ms  极快<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1562;0.1688;0.8750;0.9375;1" dur="16.0s" repeatCount="indefinite"/></text>
-<text x="150" y="220" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#00ff00" opacity="0">[ 2/46] ap-chuncheon-1 .. 58ms  极快<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2188;0.2313;0.8750;0.9375;1" dur="16.0s" repeatCount="indefinite"/></text>
-<text x="150" y="250" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#ffff00" opacity="0">[ 3/46] eu-frankfurt-1 .. 186ms 快<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2812;0.2938;0.8750;0.9375;1" dur="16.0s" repeatCount="indefinite"/></text>
-<text x="150" y="280" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#00ff00" opacity="0">[ 4/46] us-sanjose-1 .... 84ms  极快<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3438;0.3563;0.8750;0.9375;1" dur="16.0s" repeatCount="indefinite"/></text>
-<text x="150" y="310" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#ffffff" opacity="0">测试完成! 最快: ap-tokyo-1 (42ms)<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4062;0.4188;0.8750;0.9375;1" dur="16.0s" repeatCount="indefinite"/></text>
-<text x="150" y="340" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#ffffff" opacity="0">C:\Users\曾经的少年&gt; <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4688;0.4813;0.8750;0.9375;1" dur="16.0s" repeatCount="indefinite"/></text>
-<rect x="350" y="328" width="9" height="16" fill="#ffffff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="150" y="130" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#ffffff">C:\Users\曾经的少年&gt; python oci-test.py --count 20</text>
+<text x="150" y="160" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#00ff00">正在测试 Oracle 46 个区域...</text>
+<text x="150" y="190" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#00ff00">[ 1/46] ap-tokyo-1 ....... 42ms  极快</text>
+<text x="150" y="220" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#00ff00">[ 2/46] ap-chuncheon-1 .. 58ms  极快</text>
+<text x="150" y="250" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#ffff00">[ 3/46] eu-frankfurt-1 .. 186ms 快</text>
+<text x="150" y="280" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#00ff00">[ 4/46] us-sanjose-1 .... 84ms  极快</text>
+<text x="150" y="310" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#ffffff">测试完成! 最快: ap-tokyo-1 (42ms)</text>
+<text x="150" y="340" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#ffffff">C:\Users\曾经的少年&gt; </text>
+<rect x="350" y="328" width="9" height="16" fill="#ffffff"/>
 <rect x="0" y="480" width="880" height="40" fill="url(#taskbar)"/>
 <rect x="4" y="483" width="92" height="34" rx="8" fill="url(#startBtn)"/>
 <rect x="12" y="492" width="9" height="8" fill="#f65314"/><rect x="22" y="492" width="9" height="8" fill="#7cbb00"/><rect x="12" y="501" width="9" height="8" fill="#00a1f1"/><rect x="22" y="501" width="9" height="8" fill="#ffbb00"/>
@@ -44,5 +44,5 @@
 <rect x="106" y="486" width="190" height="28" rx="4" fill="#3a93ff" stroke="#1e5cb8" stroke-width="1"/>
 <text x="116" y="505" font-family="Tahoma, sans-serif" font-size="13" fill="#ffffff">💻 cmd.exe</text>
 <rect x="790" y="486" width="84" height="28" rx="4" fill="#1290e9" stroke="#1e5cb8" stroke-width="1"/>
-<text x="800" y="505" font-family="Tahoma, sans-serif" font-size="13" fill="#ffffff">23<tspan><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>:</tspan>31</text>
+<text x="800" y="505" font-family="Tahoma, sans-serif" font-size="13" fill="#ffffff">23:31</text>
 </svg>
