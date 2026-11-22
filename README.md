@@ -4,12 +4,11 @@
 
 ---
 
-### 🧰 我的项目
+<div align="center">
 
-- **[vps-toolbox](https://github.com/4258806/vps-toolbox)** — 精简的 VPS 工具箱：新机基线、系统设置，一键搞定
-- **[vps-tune](https://github.com/4258806/vps-tune)** — 测真实带宽、找限速器、TCP 调优
-- **[vuln-watch](https://github.com/4258806/vuln-watch)** — 每天盯 CISA KEV，有新增漏洞才提醒
-- **[WinXP 主页](https://4258806.github.io)** — 复古 WinXP 桌面风格的个人主页
+![OCI Ping](oci-ping.svg)
+
+</div>
 
 ### 🔧 常用
 
