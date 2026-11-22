@@ -1,6 +1,6 @@
 # 👋 你好，我是曾经的少年
 
-> 把复杂留给自己，把简单留给别人。
+> I keep the complexity, you get the simplicity.
 
 ---
 
